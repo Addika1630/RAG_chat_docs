@@ -28,7 +28,7 @@
 
   <ol>
     <li><strong>Clone the Repository:</strong></li>
-    <pre><code>git clone https://github.com/Sankethhhh/RAG-LLM.git</code></pre>
+    <pre><code>git clone https://github.com/Addika1630/RAG_chat_docs.git</code></pre>
     <li><strong>Install Dependencies:</strong></li>
     <pre><code>cd RAG-LLM
 pip install -r requirements.txt</code></pre>
