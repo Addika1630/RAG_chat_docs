@@ -52,14 +52,7 @@ pip install -r requirements.txt</code></pre>
 
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-  <h2>Acknowledgments</h2>
-
-  <ul>
-    <li>The RAG model concept is based on the work by Facebook AI Research.</li>
-    <li>Special thanks to the localGPT open-source community for their valuable contributions.</li>
-  </ul>
-
-  <p>Feel free to explore, experiment, and enhance the RAG-based Local Language Model for your specific use cases!</p>
+  
 
 </body>
 
